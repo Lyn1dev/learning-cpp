@@ -1,0 +1,7 @@
+# Executables & Build Folders
+*.exe
+*.out
+*.o
+*.obj
+.vscode/
+build/
