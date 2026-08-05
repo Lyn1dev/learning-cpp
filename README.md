@@ -2,7 +2,7 @@ here i will be documenting my experience learning C++ through https://www.learnc
 
 ## 📚 LearnCpp Chapter Progress Checklist
 
-[ ] Chapter 0 — Introduction / Getting Started
+[X] Chapter 0 — Introduction / Getting Started
 
 [ ] Chapter 1 — C++ Basics
 
