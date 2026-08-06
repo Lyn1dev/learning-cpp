@@ -1,20 +1,27 @@
+// #include "header.h" // Insert contents of header.h at this point.  Note use of double quotes here.
+// #include <iostream>
+
+// so all our functions are declared in header.h, we can now remove the function prototypes from this file
+
+// int main() {
+//	int x{ getInteger() };
+//	int y{ getInteger() };
+
+//	addIntegerAndPrint(x, y);
+//    std::cout << doubleNumber(4);
+//}
+
+#include "io.h"
 #include <iostream>
 
-int getInteger()
-{
-    int value{};
-    std::cout << "Enter an integer: ";
-    std::cin >> value;
-    return value;
-}
 
-int main()
-{
-	int x{ getInteger() };
+int main() {
+    int x{ readNumber() };
+    int y{ readNumber() };
 
-	int y{ getInteger() };
+    //int z{x+y};
 
-	std::cout << x << " + " << y << " = " << x + y << '\n';
+    writeAnswer(x+y); // i originally had writeAnswer(z); but I realized I could just do the addition in the function call instead of creating a new variable
 
-	return 0;
+    return 0;
 }
