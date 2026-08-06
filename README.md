@@ -1,6 +1,6 @@
 here i will be documenting my experience learning C++ through https://www.learncpp.com 
 
-total time spent: ~5 hours
+total time spent: ~7 hours
 
 ## 📚 LearnCpp Chapter Progress Checklist
 
@@ -8,7 +8,7 @@ total time spent: ~5 hours
 
 [✅] Chapter 1 — C++ Basics
 
-[ ] Chapter 2 — C++ Basics: Functions and Files
+[✅] Chapter 2 — C++ Basics: Functions and Files
 
 [ ] Chapter 3 — Debugging C++ Programs
 
