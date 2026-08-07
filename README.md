@@ -1,6 +1,6 @@
 here i will be documenting my experience learning C++ through https://www.learncpp.com 
 
-## total time spent: ~7 hours
+## total time spent: ~7 hours 40 minutes
 ###### this is not intended to be a speedrun, and i'm going through this with the plan to understand everything and think about stuff as i learn. 
 ###### my notes are really just the voice in my head as i go through this course, i don't recommend using my notes as any kind of reference obviously.
 
@@ -12,7 +12,7 @@ here i will be documenting my experience learning C++ through https://www.learnc
 
 [✅] Chapter 2 — C++ Basics: Functions and Files
 
-[ ] Chapter 3 — Debugging C++ Programs
+[✅] Chapter 3 — Debugging C++ Programs
 
 [ ] Chapter 4 — Fundamental Data Types
 
