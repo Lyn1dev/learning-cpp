@@ -1,5 +1,6 @@
 here i will be documenting my experience learning C++ through https://www.learncpp.com 
 
+
 ## total time spent: ~8 hours 40 minutes
 ###### this is not intended to be a speedrun, and i'm going through this with the plan to understand everything and think about stuff as i learn. 
 ###### my notes are really just the voice in my head as i go through this course, i don't recommend using my notes as any kind of reference obviously.
@@ -14,11 +15,11 @@ here i will be documenting my experience learning C++ through https://www.learnc
 
 [✅] Chapter 3 — Debugging C++ Programs
 
-[ ] Chapter 4 — Fundamental Data Types
+[✅] Chapter 4 — Fundamental Data Types
 
-[ ] Chapter 5 — Constants and Strings
+[✅] Chapter 5 — Constants and Strings
 
-[ ] Chapter 6 — Operators
+[✅] Chapter 6 — Operators
 
 [ ] Chapter 7 — Scope, Duration, and Linkage
 
@@ -65,3 +66,13 @@ here i will be documenting my experience learning C++ through https://www.learnc
 [ ] Chapter 28 — Input and Output (I/O)
 
 [ ] Appendix A — Miscellaneous Topics
+
+
+## personal to do list for later
+
+Bitwise shifts (<<, >>) for extremely fast powers of 2.
+
+XOR (^) properties (like how A ^ A = 0, which is used constantly to find "missing" numbers in arrays).
+
+Bitmasking (using a single integer's bits to represent a subset of items, taking the place of a boolean array).
+
